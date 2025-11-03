@@ -40,17 +40,40 @@ Explique en détail comment fonctionne le `StreamBuilder` utilisé pour la commu
 
 ---
 
+### 3. [Quiz StreamBuilder](03-quiz_streambuilder.md)
+**Niveau** : Tous niveaux  
+**Durée** : ~45-60 minutes
+
+Quiz complet avec 30 questions pour tester vos connaissances sur StreamBuilder et le code de app_main_screen.dart.
+
+**Contenu** :
+- 10 questions de niveau facile (concepts de base)
+- 10 questions de niveau moyen (compréhension du code)
+- 10 questions de niveau difficile (analyse avancée et debug)
+- Réponses détaillées avec explications
+- Grille d'évaluation
+- 5 exercices pratiques supplémentaires
+
+**Idéal pour** : Évaluer et valider vos connaissances
+
+---
+
 ## 🎯 Par où commencer ?
 
 ### Si vous êtes nouveau sur le projet
 1. Commencez par [Arbre des Widgets](01-arbre_widgets.md) pour comprendre la structure globale
 2. Ensuite lisez [StreamBuilder et Firebase](02-explication_streambuilder.md) pour comprendre la logique
+3. Testez vos connaissances avec le [Quiz StreamBuilder](03-quiz_streambuilder.md)
 
 ### Si vous connaissez Flutter mais pas Firebase
 - Allez directement à [StreamBuilder et Firebase](02-explication_streambuilder.md)
+- Puis testez-vous avec le [Quiz StreamBuilder](03-quiz_streambuilder.md)
 
 ### Si vous voulez comprendre un widget spécifique
 - Consultez [Arbre des Widgets](01-arbre_widgets.md) et utilisez Ctrl+F pour chercher le widget
+
+### Si vous voulez évaluer vos compétences
+- Faites le [Quiz StreamBuilder](03-quiz_streambuilder.md) pour identifier vos points forts et axes d'amélioration
 
 ---
 
